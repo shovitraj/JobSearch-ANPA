@@ -2,6 +2,13 @@
 
 This guide contains specific prompt protocols designed to extract, refine, and prove your skills on your resume using AI tools (ChatGPT, Claude, etc.).
 
+## Table of Contents
+* [Phase 1: The "Skill Extraction" (Finding what you actually do)](#phase-1-the-skill-extraction-finding-what-you-actually-do)
+* [Phase 2: The "Quantifier" (Proving your skills)](#phase-2-the-quantifier-proving-your-skills)
+* [Phase 3: The "ATS Matcher" (Beating the robot)](#phase-3-the-ats-matcher-beating-the-robot)
+* [Phase 4: The "Level Up" (Sounding more senior)](#phase-4-the-level-up-sounding-more-senior)
+* [Phase 5: The Pivot (Transferable Skills)](#phase-5-the-pivot-transferable-skills)
+
 ---
 
 ## Phase 1: The "Skill Extraction" (Finding what you actually do)
@@ -12,6 +19,8 @@ This guide contains specific prompt protocols designed to extract, refine, and p
 >
 > **[Paste Resume Here]**
 
+[Back to Top](#table-of-contents)
+
 ---
 
 ## Phase 2: The "Quantifier" (Proving your skills)
@@ -21,6 +30,8 @@ This guide contains specific prompt protocols designed to extract, refine, and p
 > "I am pasting a bullet point from my resume below. It focuses too much on *duties* and not enough on *impact*. Please rewrite this bullet point using the **'X-Y-Z Formula'** (Accomplished [X] as measured by [Y], by doing [Z]). Make the skill of **[Insert Skill, e.g., Project Management]** obvious in the rewrite."
 >
 > **[Paste Bullet Point Here]**
+
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -37,6 +48,8 @@ This guide contains specific prompt protocols designed to extract, refine, and p
 > **[Paste Resume]**
 > **[Paste Job Description]**
 
+[Back to Top](#table-of-contents)
+
 ---
 
 ## Phase 4: The "Level Up" (Sounding more senior)
@@ -47,6 +60,8 @@ This guide contains specific prompt protocols designed to extract, refine, and p
 >
 > **[Paste Resume Experience Section]**
 
+[Back to Top](#table-of-contents)
+
 ---
 
 ## Phase 5: The Pivot (Transferable Skills)
@@ -56,3 +71,5 @@ This guide contains specific prompt protocols designed to extract, refine, and p
 > "I am currently a **[Current Role]** looking to transition into a **[Target Role]**. Analyze my resume below. Identify my 'Transferable Skills'—skills I currently have that are highly relevant to the new role. Rewrite my 'Professional Summary' to frame my past experience specifically through the lens of the **[Target Role]**, minimizing jargon from my old industry."
 >
 > **[Paste Resume]**
+
+[Back to Top](#table-of-contents)
