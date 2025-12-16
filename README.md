@@ -29,7 +29,7 @@ Use General LLMs to draft bullet points that are achievement-oriented, not just 
 * **Prompt for Cover Letters:**
     > "Analyze the attached Job Description and my Resume. Write a 3-paragraph cover letter that connects my experience in [Skill A] specifically to their need for [Requirement B]. Keep the tone professional but enthusiastic."
 </details>'
----
+
 <details>
 
    <summary>
@@ -49,33 +49,14 @@ You can ask ChatGPT to generate complex Boolean search strings to use on Google 
 * **Prompt:**
     > "Generate a Boolean search string to find 'Product Manager' roles in 'Fintech' that mention 'AI' or 'Machine Learning' but exclude 'Internships'. Format it for LinkedIn."
 </details>
----
-<details>
-
-   <summary>
-      
-   </summary>
-</details>
 
 <details>
 
    <summary>
-      
+      Phase 3: Interview Preparation & Mock Interviews
    </summary>
-</details>
 
-<details>
-
-   <summary>
-      
-   </summary>
-</details>
-
-
-
-
----
-
+   
 ### Phase 3: Interview Preparation & Mock Interviews
 *Goal: Rehearse your content and refine your delivery.*
 
@@ -89,10 +70,16 @@ These tools record your webcam/mic and analyze your pacing, eye contact, and fil
 * **Google Interview Warmup:** Free tool by Google. You speak answers to common questions; it transcribes them and highlights repeated words or lack of technical terms.
 * **Yoodli / Poised:** These plug into your meetings (or work standalone) to analyze your speech clarity, pacing, and confidence in real-time.
 * **OfferGenie:** Simulates specific rounds (Behavioral vs. Technical) and gives scored feedback.
+  
+</details>
 
----
+<details>
 
-### Phase 4: Salary Negotiation
+   <summary>
+      Phase 4: Salary Negotiation
+   </summary>
+
+   ### Phase 4: Salary Negotiation
 *Goal: Remove emotion and rely on market data and leverage.*
 
 **1. Roleplay the Negotiation**
@@ -104,8 +91,17 @@ Negotiation is about confidence and scripting. Use AI to simulate the "difficult
 * **Payscale / Glassdoor:** While these are data repositories, they use ML to predict salary bands.
 * **ChatGPT Analysis:** Feed it the raw data you find.
     * *Prompt:* "I have an offer of $110k in NYC. Based on inflation and cost of living differences, what is the equivalent salary in Austin, TX? Generate a table comparing net income after tax."
+</details>
 
----
+<details>
+
+   <summary>
+      
+   </summary>
+</details>
+
+
+
 
 ### ⚠️ A Warning on "Live Copilots"
 There are emerging tools (like *Final Round AI* or *Interview Copilot*) that listen to your interview in real-time and display answers on your screen.
