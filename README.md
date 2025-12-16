@@ -1,3 +1,4 @@
+
 # Leveraging AI for Job Search: A Comprehensive Guide
 
 Leveraging AI for your job search is a "force multiplier"—it transforms a manual, high-effort process into a strategic, data-driven campaign. The key is to distinguish between **Generative AI** (creating content) and **Analytical AI** (optimizing for systems like ATS).
@@ -6,6 +7,54 @@ Here is a comprehensive guide to using AI across the entire lifecycle of your jo
 
 ---
 
+<details>
+
+   <summary>
+      
+   </summary>
+</details>
+
+<details>
+
+   <summary>
+      
+   </summary>
+</details>
+### Phase 1: Resume & Application Materials
+
+<details>
+
+   <summary>
+      ### Phase 1: Resume & Application Materials
+*Goal: Beat the Applicant Tracking System (ATS) and compel the human recruiter.*
+
+**1. Optimization & ATS Scanning**
+Before a human sees your resume, an algorithm likely will. Use these tools to ensure your resume parses correctly.
+* **Jobscan / Teal / Rezi:** These tools compare your resume against a specific job description (JD). They give you a "match rate" and tell you exactly which keywords (e.g., "Project Management," "Python") you are missing.
+    * *Strategy:* Aim for a match rate of 70-80%. Don't just stuff keywords; weave them into your bullet points.
+
+**2. Content Generation (ChatGPT / Claude)**
+Use General LLMs to draft bullet points that are achievement-oriented, not just task lists.
+* **Prompt for Resume Bullet Points:**
+    > "I need to rewrite a bullet point for my [Job Title] role. Original: 'Responsible for sales.' Rewrite this using the Google 'XYZ' formula (Accomplished [X] as measured by [Y], by doing [Z]). Make it sound punchy and quantifiable."
+* **Prompt for Cover Letters:**
+    > "Analyze the attached Job Description and my Resume. Write a 3-paragraph cover letter that connects my experience in [Skill A] specifically to their need for [Requirement B]. Keep the tone professional but enthusiastic."
+   </summary>
+</details>
+
+<details>
+
+   <summary>
+      
+   </summary>
+</details>
+
+<details>
+
+   <summary>
+      
+   </summary>
+</details>
 ### Phase 1: Resume & Application Materials
 *Goal: Beat the Applicant Tracking System (ATS) and compel the human recruiter.*
 
