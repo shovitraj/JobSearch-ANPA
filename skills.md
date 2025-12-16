@@ -67,7 +67,7 @@ Effective networking requires hyper-personalization. AI tools can analyze public
 **Objective:** Increase response rates on cold outreach.
 
 > **The Prompt Protocol:**
-> "I want to connect with [Name], a Director of Product at [Company]. They recently posted about [Topic]. Write a 300-character connection request that mentions their post, is NOT salesy, and asks a specific thoughtful question about [Topic]."
+> "I want to connect with [Name], a Director of Product at [Company]. They recently posted about [Topic]. Write a 200-character connection request that mentions their post, is NOT salesy, and asks a specific thoughtful question about [Topic]."
 
 [Back to Top](#table-of-contents)
 
