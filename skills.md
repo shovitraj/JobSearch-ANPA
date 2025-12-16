@@ -1,6 +1,7 @@
 # Guide: Leveraging Artificial Intelligence for Strategic Career Development
 
 ## Table of Contents
+* [Executive Summary](#executive-summary)
 * [Part 1: Soft Skills & Communication Simulation](#part-1-soft-skills--communication-simulation)
 * [Part 2: Strategic Career Planning & Analysis](#part-2-strategic-career-planning--analysis)
 * [Part 3: Networking & Personal Branding](#part-3-networking--personal-branding)
@@ -9,7 +10,10 @@
 
 ---
 
+## Executive Summary
 This document outlines actionable strategies for using Generative AI (LLMs) not merely as drafting tools, but as sophisticated career simulators and strategic analysts. By shifting the use case from "content generation" to "interactive roleplay" and "data analysis," professionals can accelerate skill acquisition and optimize career planning.
+
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -53,4 +57,43 @@ This method provides a concrete roadmap for upskilling.
 Instead of asking for generic questions, use AI to restructure your anecdotal evidence.
 
 > **The Prompt Protocol:**
-> "I am going to provide a draft answer to the question 'Tell me about a time you failed.' I want you to grade my response based on the **STAR method (Situation, Task, Action, Result)**. Identify
+> "I am going to provide a draft answer to the question 'Tell me about a time you failed.' I want you to grade my response based on the **STAR method (Situation, Task, Action, Result)**. Identify which section is weak and rewrite it to sound more executive and results-oriented."
+
+[Back to Top](#table-of-contents)
+
+---
+
+## Part 3: Networking & Personal Branding
+Effective networking requires hyper-personalization. AI tools can analyze public data to guide your approach.
+
+### 1. The LinkedIn "Hook" Generator
+**Objective:** Increase response rates on cold outreach.
+
+> **The Prompt Protocol:**
+> "I want to connect with [Name], a Director of Product at [Company]. They recently posted about [Topic]. Write a 300-character connection request that mentions their post, is NOT salesy, and asks a specific thoughtful question about [Topic]."
+
+[Back to Top](#table-of-contents)
+
+---
+
+## Part 4: The AI Career Tool Stack
+A quick reference guide for specific tools beyond general chatbots.
+
+| Category | Recommended Tools | Primary Function |
+| :--- | :--- | :--- |
+| **Speaking Coach** | Yoodli, Orai | Real-time speech analysis & pacing feedback |
+| **Document Mgmt** | Teal | Resume versioning and keyword tracking |
+| **Interview Prep** | Big Interview | Video-based mock interviews |
+| **Networking** | Crystal, Taplio | Personality insights and content scheduling |
+
+[Back to Top](#table-of-contents)
+
+---
+
+## Part 5: Critical Guardrails
+**The "Human in the Loop" Principle:**
+
+1. **Verification:** AI frequently "hallucinates" (invents) facts, company initiatives, or news events. Never use AI-generated research without verifying the source.
+2. **Voice Integrity:** Do not copy-paste AI-written cover letters or messages directly. They often lack nuance and carry artificial phrasing. Always rewrite in your own voice.
+
+[Back to Top](#table-of-contents)
