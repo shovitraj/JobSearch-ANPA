@@ -93,15 +93,6 @@ Negotiation is about confidence and scripting. Use AI to simulate the "difficult
     * *Prompt:* "I have an offer of $110k in NYC. Based on inflation and cost of living differences, what is the equivalent salary in Austin, TX? Generate a table comparing net income after tax."
 </details>
 
-<details>
-
-   <summary>
-      
-   </summary>
-</details>
-
-
-
 
 ### ⚠️ A Warning on "Live Copilots"
 There are emerging tools (like *Final Round AI* or *Interview Copilot*) that listen to your interview in real-time and display answers on your screen.
