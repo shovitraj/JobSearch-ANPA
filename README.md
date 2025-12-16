@@ -30,6 +30,8 @@ Use General LLMs to draft bullet points that are achievement-oriented, not just 
     > "Analyze the attached Job Description and my Resume. Write a 3-paragraph cover letter that connects my experience in [Skill A] specifically to their need for [Requirement B]. Keep the tone professional but enthusiastic."
 </details>'
 
+
+
 <details>
 
    <summary>
