@@ -8,8 +8,6 @@ Here is a comprehensive guide to using AI across the entire lifecycle of your jo
 ---
 
 
-
-
 <details>
 
    <summary>
@@ -31,52 +29,14 @@ Use General LLMs to draft bullet points that are achievement-oriented, not just 
 * **Prompt for Cover Letters:**
     > "Analyze the attached Job Description and my Resume. Write a 3-paragraph cover letter that connects my experience in [Skill A] specifically to their need for [Requirement B]. Keep the tone professional but enthusiastic."
 </details>
-
-<details>
-
-   <summary>
-      
-   </summary>
-</details>
-
-<details>
-
-   <summary>
-      
-   </summary>
-</details>
-
-<details>
-
-   <summary>
-      
-   </summary>
-</details>
-
-<details>
-
-   <summary>
-      
-   </summary>
-</details>
-### Phase 1: Resume & Application Materials
-*Goal: Beat the Applicant Tracking System (ATS) and compel the human recruiter.*
-
-**1. Optimization & ATS Scanning**
-Before a human sees your resume, an algorithm likely will. Use these tools to ensure your resume parses correctly.
-* **Jobscan / Teal / Rezi:** These tools compare your resume against a specific job description (JD). They give you a "match rate" and tell you exactly which keywords (e.g., "Project Management," "Python") you are missing.
-    * *Strategy:* Aim for a match rate of 70-80%. Don't just stuff keywords; weave them into your bullet points.
-
-**2. Content Generation (ChatGPT / Claude)**
-Use General LLMs to draft bullet points that are achievement-oriented, not just task lists.
-* **Prompt for Resume Bullet Points:**
-    > "I need to rewrite a bullet point for my [Job Title] role. Original: 'Responsible for sales.' Rewrite this using the Google 'XYZ' formula (Accomplished [X] as measured by [Y], by doing [Z]). Make it sound punchy and quantifiable."
-* **Prompt for Cover Letters:**
-    > "Analyze the attached Job Description and my Resume. Write a 3-paragraph cover letter that connects my experience in [Skill A] specifically to their need for [Requirement B]. Keep the tone professional but enthusiastic."
-
 ---
+<details>
 
-### Phase 2: Sourcing & Job Matching
+   <summary>
+      Phase 2: Sourcing & Job Matching
+   </summary>
+   
+   ### Phase 2: Sourcing & Job Matching
 *Goal: Find roles that fit you, rather than scrolling endlessly.*
 
 **1. AI Job Matchmakers**
@@ -88,6 +48,31 @@ Instead of searching keywords, use platforms that match your profile to roles.
 You can ask ChatGPT to generate complex Boolean search strings to use on Google or LinkedIn to find hidden jobs.
 * **Prompt:**
     > "Generate a Boolean search string to find 'Product Manager' roles in 'Fintech' that mention 'AI' or 'Machine Learning' but exclude 'Internships'. Format it for LinkedIn."
+</details>
+---
+<details>
+
+   <summary>
+      
+   </summary>
+</details>
+
+<details>
+
+   <summary>
+      
+   </summary>
+</details>
+
+<details>
+
+   <summary>
+      
+   </summary>
+</details>
+
+
+
 
 ---
 
