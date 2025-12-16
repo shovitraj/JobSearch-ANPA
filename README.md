@@ -28,7 +28,7 @@ Use General LLMs to draft bullet points that are achievement-oriented, not just 
     > "I need to rewrite a bullet point for my [Job Title] role. Original: 'Responsible for sales.' Rewrite this using the Google 'XYZ' formula (Accomplished [X] as measured by [Y], by doing [Z]). Make it sound punchy and quantifiable."
 * **Prompt for Cover Letters:**
     > "Analyze the attached Job Description and my Resume. Write a 3-paragraph cover letter that connects my experience in [Skill A] specifically to their need for [Requirement B]. Keep the tone professional but enthusiastic."
-</details>
+</details>'
 ---
 <details>
 
