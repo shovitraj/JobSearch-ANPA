@@ -1,7 +1,6 @@
 # Guide: Leveraging Artificial Intelligence for Strategic Career Development
 
 ## Table of Contents
-* [Executive Summary](#executive-summary)
 * [Part 1: Soft Skills & Communication Simulation](#part-1-soft-skills--communication-simulation)
 * [Part 2: Strategic Career Planning & Analysis](#part-2-strategic-career-planning--analysis)
 * [Part 3: Networking & Personal Branding](#part-3-networking--personal-branding)
@@ -9,8 +8,6 @@
 * [Part 5: Critical Guardrails](#part-5-critical-guardrails)
 
 ---
-
-## Executive Summary
 This document outlines actionable strategies for using Generative AI (LLMs) not merely as drafting tools, but as sophisticated career simulators and strategic analysts. By shifting the use case from "content generation" to "interactive roleplay" and "data analysis," professionals can accelerate skill acquisition and optimize career planning.
 
 [Back to Top](#table-of-contents)
