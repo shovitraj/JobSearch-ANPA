@@ -8,14 +8,14 @@ Here is a comprehensive guide to using AI across the entire lifecycle of your jo
 ---
 
 
-### Phase 1: Resume & Application Materials
+
 
 <details>
 
    <summary>
-      ### Phase 1: Resume & Application Materials
-
+    Phase 1: Resume & Application Materials
    </summary>
+   ### Phase 1: Resume & Application Materials
    *Goal: Beat the Applicant Tracking System (ATS) and compel the human recruiter.*
 
 **1. Optimization & ATS Scanning**
