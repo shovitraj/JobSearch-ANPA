@@ -93,6 +93,11 @@ Negotiation is about confidence and scripting. Use AI to simulate the "difficult
     * *Prompt:* "I have an offer of $110k in NYC. Based on inflation and cost of living differences, what is the equivalent salary in Austin, TX? Generate a table comparing net income after tax."
 </details>
 
+Here are the links with prompts that you can leverage for resume building and for your career development
+
+* [Resume Bilding](resume.md)
+* [Career Development](skills.md)
+
 
 
 
