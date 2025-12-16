@@ -94,6 +94,8 @@ Negotiation is about confidence and scripting. Use AI to simulate the "difficult
 </details>
 
 
+
+
 ### ⚠️ A Warning on "Live Copilots"
 There are emerging tools (like *Final Round AI* or *Interview Copilot*) that listen to your interview in real-time and display answers on your screen.
 * **Risk:** Experienced interviewers can tell when you are reading. Your eyes track text, and there is a delay in your response.
