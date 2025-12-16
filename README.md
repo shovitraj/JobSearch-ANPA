@@ -95,7 +95,7 @@ Negotiation is about confidence and scripting. Use AI to simulate the "difficult
 
 Here are the links with prompts that you can leverage for resume building and for your career development
 
-* [Resume Bilding](resume.md)
+* [Resume Building](resume.md)
 * [Career Development](skills.md)
 
 
