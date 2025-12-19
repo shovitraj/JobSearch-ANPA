@@ -98,6 +98,12 @@ Here are the links with prompts that you can leverage for resume building and fo
 * [Resume Building](resume.md)
 * [Career Development](skills.md)
 
+Responsible AI and Hallucinations
+
+* [Responsible AI](responbsible.md)
+* [Hallucinations](Hallucinations)
+* [IBM AI Risk Atlas](https://www.ibm.com/docs/en/watsonx/saas?topic=ai-risk-atlas)
+
 
 
 
