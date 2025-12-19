@@ -100,8 +100,8 @@ Here are the links with prompts that you can leverage for resume building and fo
 
 Responsible AI and Hallucinations
 
-* [Responsible AI](responbsible.md)
-* [Hallucinations](Hallucinations)
+* [Responsible AI](responsible.md)
+* [Hallucinations](Hallucinations.md)
 * [IBM AI Risk Atlas](https://www.ibm.com/docs/en/watsonx/saas?topic=ai-risk-atlas)
 
 
