@@ -120,5 +120,5 @@ There are emerging tools (like *Final Round AI* or *Interview Copilot*) that lis
 | :--- | :--- | :--- |
 | **Resume** | ChatGPT, Google Gemini, Perplexity | Teal / Jobscan |
 | **Speaking Practice** | Google Interview Warmup | Yoodli |
-| **Mock Interviews** | ChatGPT (Voice Mode) | OfferGenie / Thita.ai |
-| **Negotiation** | ChatGPT , Google Gemini (Roleplay) | Levels.fyi (Data) |
+| **Mock Interviews** | ChatGPT, Google Gemini, Perplexity (Voice Mode) | OfferGenie / Thita.ai |
+| **Negotiation** | ChatGPT, Google Gemini, Perplexity (Roleplay) | Levels.fyi (Data) |
