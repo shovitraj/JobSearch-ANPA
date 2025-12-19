@@ -118,7 +118,7 @@ There are emerging tools (like *Final Round AI* or *Interview Copilot*) that lis
 
 | Stage | Best Free/Freemium Tool | Best Paid/Premium Tool |
 | :--- | :--- | :--- |
-| **Resume** | ChatGPT (with prompt engineering) | Teal / Jobscan |
+| **Resume** | ChatGPT, Google Gemini, Perplexity | Teal / Jobscan |
 | **Speaking Practice** | Google Interview Warmup | Yoodli |
 | **Mock Interviews** | ChatGPT (Voice Mode) | OfferGenie / Thita.ai |
-| **Negotiation** | ChatGPT (Roleplay) | Levels.fyi (Data) |
+| **Negotiation** | ChatGPT , Google Gemini (Roleplay) | Levels.fyi (Data) |
