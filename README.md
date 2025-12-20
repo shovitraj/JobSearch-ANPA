@@ -22,7 +22,7 @@ Before a human sees your resume, an algorithm likely will. Use these tools to en
 * **Jobscan / Teal / Rezi:** These tools compare your resume against a specific job description (JD). They give you a "match rate" and tell you exactly which keywords (e.g., "Project Management," "Python") you are missing.
     * *Strategy:* Aim for a match rate of 70-80%. Don't just stuff keywords; weave them into your bullet points.
 
-**2. Content Generation (ChatGPT / Claude)**
+**2. Content Generation (ChatGPT / Claude/Gemini)**
 Use General LLMs to draft bullet points that are achievement-oriented, not just task lists.
 * **Prompt for Resume Bullet Points:**
     > "I need to rewrite a bullet point for my [Job Title] role. Original: 'Responsible for sales.' Rewrite this using the Google 'XYZ' formula (Accomplished [X] as measured by [Y], by doing [Z]). Make it sound punchy and quantifiable."
